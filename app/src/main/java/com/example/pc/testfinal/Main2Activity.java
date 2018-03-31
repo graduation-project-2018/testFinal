@@ -11,5 +11,6 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         //Maha3 branch
         //Maha3 -edited
+        ///////
     }
 }
